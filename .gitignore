@@ -4,4 +4,4 @@ Cargo.lock
 bin/
 pkg/
 wasm-pack.log
-wasm-game-of-life/www/node_modules
+www/node_modules
